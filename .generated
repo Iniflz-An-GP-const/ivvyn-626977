@@ -1,0 +1,41 @@
+AssetBasedConstructor
+donor: GameAppDonor (app.game.donor)
+project: Ivvyn (gnscinternational.ivvyn.digital)
+prefix: GENNL
+seed: 6518338834523471640
+app/src/main/java/app/game/donor/ui/composable/approot/background -> v_wave
+app/src/main/java/app/game/donor/ui/composable/approot/background/points -> v_grid_staggered
+app/src/main/java/app/game/donor/ui/composable/approot/topbar -> v_divider
+app/src/main/java/app/game/donor/ui/composable/screen/about/card -> v_icon_leading
+app/src/main/java/app/game/donor/ui/composable/screen/about/rules/header -> v_divider
+app/src/main/java/app/game/donor/ui/composable/screen/about/rules/list -> v_divided_rows
+app/src/main/java/app/game/donor/ui/composable/screen/difficulty/option/content -> v_meter_top
+app/src/main/java/app/game/donor/ui/composable/screen/difficulty/option/meter -> v_single_star
+app/src/main/java/app/game/donor/ui/composable/screen/difficulty/option/shell -> v_tonal
+app/src/main/java/app/game/donor/ui/composable/screen/game/card -> v_fade_through
+app/src/main/java/app/game/donor/ui/composable/screen/game/card/back -> v_question
+app/src/main/java/app/game/donor/ui/composable/screen/game/card/feedback/deal -> v_cascade
+app/src/main/java/app/game/donor/ui/composable/screen/game/card/feedback/match -> v_bounce
+app/src/main/java/app/game/donor/ui/composable/screen/game/card/feedback/mismatch -> v_wobble
+app/src/main/java/app/game/donor/ui/composable/screen/game/field/shell -> v_tonal
+app/src/main/java/app/game/donor/ui/composable/screen/game/hud/content -> v_progress
+app/src/main/java/app/game/donor/ui/composable/screen/game/hud/shell -> v_tonal
+app/src/main/java/app/game/donor/ui/composable/screen/game/symbols -> v_sport
+app/src/main/java/app/game/donor/ui/composable/screen/high_scores/card -> v_row
+app/src/main/java/app/game/donor/ui/composable/screen/high_scores/filter -> v_surface
+app/src/main/java/app/game/donor/ui/composable/screen/high_scores/filter/chip -> v_dot
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/block/content -> v_icon_centered
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/block/shell -> v_tonal
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/difficulty -> v_cards
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/header -> v_icon_title
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/layout -> v_hero_row
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/scores -> v_stats_stacked
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/start -> v_button
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/start/pulse -> v_breath
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/start/pulse/timing -> v_calm
+app/src/main/java/app/game/donor/ui/composable/screen/shared/button -> v_icon
+app/src/main/java/app/game/donor/ui/composable/screen/shared/modifier/press -> v_scale
+app/src/main/java/app/game/donor/ui/composable/screen/splash -> v_bounce
+app/src/main/java/app/game/donor/ui/theme -> v_cp4732
+app/src/main/java/app/game/donor/ui/theme/dimens -> v_dense
+app/src/main/java/app/game/donor/ui/theme/typography -> v_font_pulse
