@@ -1,0 +1,65 @@
+<resources>
+    <string name="back_icon_description">Kembali</string>
+    <string name="gennl_app_logo_description">Logo aplikasi</string>
+    <string name="gennl_main_menu_tagline">Cocokkan semua pasangan</string>
+    <string name="main_menu_play">Mulai</string>
+    <string name="main_menu_high_scores">Skor Terbaik</string>
+    <string name="main_menu_about">Info</string>
+    <string name="main_menu_exit">Keluar</string>
+    <string name="menu_start_summary_format">%1$s · papan %2$d kartu</string>
+    <string name="menu_scores_moves_label">Langkah</string>
+    <string name="menu_scores_time_label">Durasi</string>
+    <string name="menu_scores_empty">Selesaikan permainan untuk membuat rekor</string>
+    <string name="menu_about_subtitle">Panduan dan detail</string>
+    <string name="menu_exit_subtitle">Keluar dari permainan</string>
+    <string name="menu_previous_difficulty">Level lebih mudah</string>
+    <string name="menu_next_difficulty">Level lebih sulit</string>
+    <string name="gennl_difficulty_title">Pilih Level</string>
+    <string name="difficulty_easy">Level mudah</string>
+    <string name="difficulty_medium">Level sedang</string>
+    <string name="difficulty_hard">Level sulit</string>
+    <string name="difficulty_pairs_format">%1$d pasangan cocok</string>
+    <string name="difficulty_cards_pairs_format">%1$d kartu · %2$d pasangan</string>
+    <string name="game_moves_format">Langkah: %1$d</string>
+    <string name="game_preview_format">Ingat: %1$d</string>
+    <string name="game_playing_hint">Cocokkan kartu</string>
+    <string name="game_best_none">Rekor: –</string>
+    <string name="game_best_format">Rekor: %1$d langkah · %2$s</string>
+    <string name="game_time_format">Waktu: %1$s</string>
+    <string name="game_hud_moves_label">Langkah</string>
+    <string name="game_hud_time_label">Waktu</string>
+    <string name="game_hud_pairs_label">Pasangan</string>
+    <string name="game_hud_pairs_format">%1$d dari %2$d</string>
+    <string name="game_hud_minimal_format">%1$d langkah · %2$s</string>
+    <string name="game_finished_title">Semua pasangan ditemukan!</string>
+    <string name="game_finished_moves_format">Langkah: %1$d</string>
+    <string name="game_finished_time_format">Selesai dalam: %1$s</string>
+    <string name="game_finished_new_record_format">%1$s — rekor pribadi!</string>
+    <string name="game_play_again">Permainan baru</string>
+    <string name="game_main_menu">Menu utama</string>
+    <string name="dialog_exit_title">Keluar dari permainan?</string>
+    <string name="dialog_exit_message">Progres permainan ini akan dibuang.</string>
+    <string name="dialog_action_confirm">Keluar</string>
+    <string name="dialog_action_cancel">Lanjut bermain</string>
+    <string name="gennl_high_scores_title">Skor Terbaik</string>
+    <string name="high_scores_empty">Belum ada skor tersimpan</string>
+    <string name="high_scores_filter_moves">Langkah</string>
+    <string name="high_scores_filter_time">Durasi</string>
+    <string name="high_scores_filter_date">Dimainkan</string>
+    <string name="high_score_card_score_format">%1$d langkah · %2$s</string>
+    <string name="high_score_card_rank_format">Peringkat %1$d</string>
+    <string name="high_score_card_moves_label">Langkah</string>
+    <string name="high_score_card_time_label">Durasi</string>
+    <string name="high_score_card_date_label">Dimainkan</string>
+    <string name="gennl_about_title">Info Permainan</string>
+    <string name="about_rules_title">Panduan Bermain</string>
+    <string name="about_version_format">Rilis %1$s</string>
+    <string name="about_developer_label">Dibuat oleh</string>
+    <string name="about_contact_label">Hubungi kami</string>
+    <string-array name="about_rules">
+        <item>Semua kartu terbuka sebentar — ingat setiap posisinya.</item>
+        <item>Setelah itu, semua kartu tertutup. Ketuk satu untuk membukanya.</item>
+        <item>Cari kartu yang cocok dengan kartu yang sudah dibuka.</item>
+        <item>Pilih level: level yang lebih sulit menaruh lebih banyak kartu di papan.</item>
+    </string-array>
+</resources>
